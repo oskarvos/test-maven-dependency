@@ -1,0 +1,1 @@
+реализация проекта weather-app-jdbc через dependency pom.xml (jar)  
